@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android-Expandable-TextView</string>
+    <string name="big_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit tincidunt arcu et viverra. Proin pellentesque neque eros, vel condimentum nulla facilisis dapibus. Suspendisse purus augue, tempus sit amet egestas ac, sagittis ac est. Donec facilisis dolor a nisi feugiat malesuada. Pellentesque ut tristique nibh. Donec semper, est quis aliquet vestibulum, quam libero egestas neque, non tincidunt orci ligula a neque. Nunc ac erat arcu. Fusce id scelerisque purus. Ut commodo porta risus id facilisis. Phasellus lobortis nisi vitae arcu posuere, in faucibus nunc laoreet. Cras justo erat, scelerisque id odio luctus, cursus lacinia felis. Donec sed pharetra lacus. Praesent et nisi ut orci consectetur accumsan sed ligula. Donec accumsan turpis eu arcu aliquam sagittis. Quisque commodo viverra porta.</string>
+    <string name="textview_with_image">TextView With Image</string>
+
+</resources>
